@@ -20,7 +20,6 @@ fun HelloWorld(){
     
 }
 
-
 @Preview(showBackground = true)
 @Composable
 fun PrevHelloWorld(){
